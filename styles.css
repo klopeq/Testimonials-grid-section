@@ -178,5 +178,10 @@ body {
       width: 100%;
       margin-bottom: 10px;
     }
+
+    .container .boxes .box-1 .design-img {
+        right: 5%;
+        top: 0
+    }
   }
 
